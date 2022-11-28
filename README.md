@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Purity Chege
 - 👀 I’m interested in Software Development | Web Development
 - 🌱 Skills: Python, C, Javascript, HTML, CSS 
+- 💞️ I’m looking to collaborate on Software Development | web Development
 - 📫 Reach out through: chegepurity808@gmail.com
 
 <!---
